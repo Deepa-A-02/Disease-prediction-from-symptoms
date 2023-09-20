@@ -4,7 +4,7 @@ This project explores the use of machine learning algorithms to predict diseases
 Algorithms Explored
 The following algorithms have been explored in code:
 
-Naive Bayes
-Decision Tree
-Random Forest
-Gradient Boosting
+1.Naive Bayes
+2.Decision Tree
+3.Random Forest
+4.Gradient Boosting
