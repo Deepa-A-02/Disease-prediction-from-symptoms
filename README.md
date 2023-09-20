@@ -8,3 +8,4 @@ The following algorithms have been explored in code:
 2.Decision Tree
 3.Random Forest
 4.Gradient Boosting
+
